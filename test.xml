@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="1">
+        <personal>
+            <firstName>John</firstName>
+            <lastName>Doe</lastName>
+            <dateOfBirth>1990-05-15</dateOfBirth>
+            <gender>Male</gender>
+        </personal>
+        <employment>
+            <position>Manager</position>
+            <salary>75000</salary>
+        </employment>
+        <contact>
+            <email>john.doe@example.com</email>
+            <phone>123-456-7890</phone>
+        </contact>
+    </employee>
+
+    <employee id="2">
+        <personal>
+            <firstName>Shrey</firstName>
+            <lastName>Gupta</lastName>
+            <dateOfBirth>2002-05-15</dateOfBirth>
+            <gender>Male</gender>
+        </personal>
+        <employment>
+            <position>sr Manager</position>
+            <salary>95000</salary>
+        </employment>
+        <contact>
+            <email>shreyg9283@gmail.com</email>
+            <phone>8439503625</phone>
+        </contact>
+    </employee>
+
+    <employee id="3">
+        <personal>
+            <firstName>Ayushi</firstName>
+            <lastName>Gupta</lastName>
+            <dateOfBirth>1998-01-15</dateOfBirth>
+            <gender>Female</gender>
+        </personal>
+        <employment>
+            <position> Manager</position>
+            <salary>99000</salary>
+        </employment>
+        <contact>
+            <email>ayushi83@gmail.com</email>
+            <phone>8436583625</phone>
+        </contact>
+    </employee>
+</employees>
